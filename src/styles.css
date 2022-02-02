@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#board {
+  background-color: "tomato";
+  height: 50vh;
+  width: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
